@@ -2,7 +2,8 @@
 
 Prosta aplikacja do obliczania gramatury produktów
 
-Simple kitchen calculator. Unluckly in PL only.
+Simple kitchen calculator.
+(unluckly in PL only)
 
 <img src="https://github.com/toungyhug/kalkulator_kuchenny/blob/master/assets/Kuchenny.png" height="200" >
 
