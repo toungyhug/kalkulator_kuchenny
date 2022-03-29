@@ -1,6 +1,9 @@
 # kalkulator_kuchenny
 
 Prosta aplikacja do obliczania gramatury produktów
+Simple kitchen calculator. Unluckly in PL only.
+
+<img src="https://github.com/toungyhug/kalkulator_kuchenny/blob/master/assets/Kuchenny.png" height="200" >
 
 ## Getting Started
 
